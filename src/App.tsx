@@ -86,7 +86,7 @@ function App() {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-4xl w-full">
             {/* Telegram */}
             <a
-              href="https://t.me/+do2wvaT0p-I4M2I5"
+              href="https://t.me/peggerhead"
               target="_blank"
               rel="noopener noreferrer"
               className="group bg-gradient-to-r from-blue-500 to-blue-600 hover:from-blue-600 hover:to-blue-700 rounded-2xl p-6 text-center transition-all duration-300 transform hover:scale-105 hover:shadow-2xl border border-blue-400/30"
