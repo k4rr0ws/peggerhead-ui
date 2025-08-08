@@ -160,7 +160,7 @@ function App() {
         {/* Footer */}
         <footer className="text-center py-8 px-4">
           <p className="text-gray-400 text-sm">
-            © 2024 PEGGERHEAD • Built on PulseChain • Not Financial Advice
+            © 2025 PEGGERHEAD • Built on PulseChain • Not Financial Advice
           </p>
           <p className="text-gray-500 text-xs mt-2">
             Always DYOR (Do Your Own Research) before investing in any cryptocurrency
