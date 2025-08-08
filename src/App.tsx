@@ -22,7 +22,7 @@ function App() {
       <div 
         className="fixed inset-0"
         style={{
-          backgroundImage: `url('/src/assets/b73f9062-7b41-4da1-8122-8dfb3e5e0b9d.png')`,
+          backgroundImage: `url('/b73f9062-7b41-4da1-8122-8dfb3e5e0b9d.png')`,
           backgroundSize: '400px 400px',
           backgroundRepeat: 'repeat',
           animation: 'float 20s ease-in-out infinite'
@@ -35,7 +35,7 @@ function App() {
         <header className="flex justify-center items-center py-8 px-4">
           <div className="max-w-4xl w-full flex justify-center">
             <img 
-              src="/src/assets/Thats-aint-all-folks.svg" 
+              src="/Thats-aint-all-folks.svg" 
               alt="That's ain't all folks" 
               className="w-full max-w-md md:max-w-lg lg:max-w-xl h-auto object-contain drop-shadow-2xl"
               style={{
@@ -53,11 +53,11 @@ function App() {
               PEGGERHEAD
             </h1>
             <p className="text-xl md:text-2xl text-white font-bold mb-4 drop-shadow-lg">
-              💥 The $1 Peg Is Not a Dream — It’s a Movement 💥
+              💥 The $1 Peg Is Not a Dream — It's a Movement 💥
             </p>
             <p className="text-lg text-gray-200 max-w-2xl mx-auto leading-relaxed">
               Born in the trenches. Forged by red candles. Powered by pure meme conviction.  
-  PEGGERHEAD isn’t just another token — it’s a full-blown degen uprising.  
+  PEGGERHEAD isn't just another token — it's a full-blown degen uprising.  
   Join us as we peg our way to $1 and beyond. No brakes. No roadmap. Just vibes.
             </p>
           </div>
@@ -92,7 +92,7 @@ function App() {
               className="group bg-gradient-to-r from-blue-500 to-blue-600 hover:from-blue-600 hover:to-blue-700 rounded-2xl p-6 text-center transition-all duration-300 transform hover:scale-105 hover:shadow-2xl border border-blue-400/30"
             >
               <img 
-                src="/src/assets/Telegram-button.svg" 
+                src="/Telegram-button.svg" 
                 alt="Telegram" 
                 className="w-16 h-16 mx-auto mb-4 group-hover:animate-bounce"
               />
@@ -109,7 +109,7 @@ function App() {
               className="group bg-gradient-to-r from-gray-800 to-black hover:from-gray-700 hover:to-gray-900 rounded-2xl p-6 text-center transition-all duration-300 transform hover:scale-105 hover:shadow-2xl border border-gray-600/30"
             >
               <img 
-                src="/src/assets/twitter-button.svg" 
+                src="/twitter-button.svg" 
                 alt="Twitter/X" 
                 className="w-16 h-16 mx-auto mb-4 group-hover:animate-bounce"
               />
@@ -126,7 +126,7 @@ function App() {
               className="group bg-gradient-to-r from-green-500 to-emerald-600 hover:from-green-600 hover:to-emerald-700 rounded-2xl p-6 text-center transition-all duration-300 transform hover:scale-105 hover:shadow-2xl border border-green-400/30"
             >
               <img 
-                src="/src/assets/Buy-button.svg" 
+                src="/Buy-button.svg" 
                 alt="Buy" 
                 className="w-16 h-16 mx-auto mb-4 group-hover:animate-bounce"
               />
@@ -168,7 +168,7 @@ function App() {
         </footer>
       </div>
 
-      <style jsx>{`
+      <style>{`
         @keyframes float {
           0%, 100% { transform: translateY(0px) translateX(0px); }
           25% { transform: translateY(-10px) translateX(5px); }
